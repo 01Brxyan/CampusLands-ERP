@@ -1,6 +1,6 @@
 **Autores:**
-Brayan Snehyder Castro Velandia
-Andres Felipe Navas Alvear
+- Brayan Snehyder Castro Velandia
+- Andres Felipe Navas Alvear
 
 Funciona en **Linux** y **Windows**, ejecutable desde **Visual Studio Code** o la **consola**.
 Al iniciarse, muestra un menú numerado que permite gestionar inscripciones, rutas de entrenamiento, matrículas, trainers, coordinadores y evaluaciones. Este sistema facilita el control académico de los campers matriculados en el programa intensivo de programación de CampusLands.
